@@ -31,7 +31,7 @@ Un réseau sniffer simple développé en Python qui capture et analyse le trafic
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/yourusername/network_sniffer.git
+   git clone https://github.com/HAS1ELB/network_sniffer.git
    cd network_sniffer
    ```
 
